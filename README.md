@@ -18,9 +18,11 @@ Have a widget to add? See [Contributing](https://github.com/DavidSpriggs/cmv-con
 | [ElevationsProfile](https://github.com/ERS-Long/ElevationsProfile) | TitlePane widget to draw elevation profile. |
 | [ElevationsProfileTable](https://github.com/goriliukasbuxton/ElevationProfile2) | Bottom Pane widget to draw elevation profile. |
 | [Export](https://github.com/tmcgee/cmv-widgets#export) | Export features from the [Attributes Tables](https://github.com/tmcgee/cmv-widgets#attributes-tables) widget or other widgets that have a [dgrid](http://dgrid.io). |
+| [Export to shapefile](https://github.com/aspetkov/cmv-widgets/tree/master/JS2Shapefile) | A javascript library for generating ESRI shapefiles in the client from Arcgis javascript map graphics with supporting a UTF-8 encoding.
 | [Extract](https://github.com/tr3vorm/cmv-extract-widget) | TitlePane widget to extract selected layer from current extents using geoprocessing tool  (clip and ship). |
+| [FullScreen](https://github.com/tmcgee/cmv-widgets#fullscreen) | A simple widget containing a button to toggle the CMV map to a maximized full screen view and restore it to the original dimensions. |
 | [Geoprocessor](https://github.com/tmcgee/cmv-widgets#geoprocessor) | An example widget demonstrating the display of results from a Geoprocessing Task in the [Attributes Tables](https://github.com/tmcgee/cmv-widgets#attributes-tables) widget. |
-| [Google nearby](https://github.com/aspetkov/cmv-widgets/tree/master/GoogleNearby) | Discover objects within a radius of a map click location from Google database. |
+| [Google nearby](https://github.com/aspetkov/cmv-widgets/tree/master/GoogleNearby) | Discover objects within a radius of a map click location from Google database. Add export on the objects to shapefile. |
 | [Goto Coordinate](http://github.com/BrianBunker/cmv-widgets/tree/master//Goto) | Center the map at a specific location in geographic, UTM, or MGRS coordinates. |
 | [Heatmap Toggle](https://github.com/roemhildtg/CMV_Widgets#heatmap) | Toggle a heat map on point layers using the dynamic sublayer menu. |
 | [Identify Panel](https://github.com/dougrchamberlain/IdentifyPanel) | TitlePane widget to allow identify results to be viewed on the side instead of in a popup/infowindow. |
@@ -36,6 +38,7 @@ Have a widget to add? See [Contributing](https://github.com/DavidSpriggs/cmv-con
 | [PointClustering](https://github.com/ERS-Long/PointClustering) | PointClustering of point sublayer (CMV1.3.4) |
 | [Print Plus](https://github.com/tmcgee/cmv-widgets/tree/master#print-plus) | An updated version of the PrintPlus widget originally created by [@LarryStout](https://github.com/LarryStout). |
 | [Projections](https://github.com/tr3vorm/cmv-projections-widget) | TitlePane widget for showing coordinates in selected projections, and for showing a specified location. |
+| [Query Statistics](https://github.com/cwdotgis/cmv-widgets/tree/master/widgets) | Query summary statistics for a selected feature service's features in the current map view. |
 | [Related Records](https://github.com/roemhildtg/CMV_Widgets#relatedrecordstable) | Queries related records of feature layers and displays results in a tabbed dgrid tables. |
 | [Search](https://github.com/tmcgee/cmv-widgets#search) | Used in conjunction with the [Attributes Tables](https://github.com/tmcgee/cmv-widgets#attributes-tables) widget to provide a user interface for querying feature layers, tables and related records. |
 | [Share](https://github.com/tmcgee/cmv-widgets#share) | Share your map by using Facebook, Twitter, Google+, E-Mail, Link, or embedded iFrame code. |
@@ -43,6 +46,7 @@ Have a widget to add? See [Contributing](https://github.com/DavidSpriggs/cmv-con
 | [TimeSlider Advanced](https://github.com/vojvod/CMV_TimeSlider_Widget) | Control all time enabled layers on the map. It allows you to set the startTime and endTime dynamically. |
 | [What3Words](https://github.com/tmcgee/cmv-widgets#what3words) | A simple widget to send a 3 word address or lat/lng to what3words and zoom the map to the resulting location. The lat/lng and 3 word address for the location are displayed from the search result. |
 | [WMS Basemaps](https://github.com/ishiland/cmv-wms-basemaps) | Simulates a WMS Layer as a basemap by reordering the WMS layer to the bottom layer. This works in place of the core CMV basemap widget. |
+| [Zoom To Extent](https://github.com/evermanwa/Zoom-To-Extent) | Zoom to a specific area on the map based off of a drawn extent. |
 | [Zoom To Feature](https://github.com/tmcgee/cmv-widgets#zoom-to-feature) | A simple widget to provide a drop-down list of features to zoom to on the map. Similar to bookmarks but driven by actual data in a Map Service. |
 
 ## Contributing
